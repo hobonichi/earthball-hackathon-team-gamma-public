@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="hobonichi_leaflet" size="7.000000 9.909393" />
+    <ImageTarget name="hobonichi" size="5.000000 5.064516" />
+  </Tracking>
+</QCARConfig>
